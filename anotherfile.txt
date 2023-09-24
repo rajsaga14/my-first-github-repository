@@ -1,1 +1,2 @@
 just another file in feature-1
+This file had been chnged locally in feature-1 branch
